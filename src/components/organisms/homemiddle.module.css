@@ -1,0 +1,18 @@
+.middle{
+    height: 25rem;
+    background-color:ghostwhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.img{
+    height: 12rem;
+    width: 10rem;
+}
+.recent{
+    background-color: aliceblue;
+    height: 20rem ;
+}
+.full{
+    background-color: aliceblue;
+}

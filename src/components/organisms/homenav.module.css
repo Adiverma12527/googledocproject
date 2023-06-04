@@ -1,0 +1,16 @@
+.navmain{
+display: flex;
+align-items: center;
+width: 100vw;
+justify-content: space-between;
+background-color:aliceblue;
+}
+.docicon{
+    height: 45px;
+    width: 45px;
+    color: blue;
+    margin-top: 20px;
+    margin-right: 5px;
+
+}
+
